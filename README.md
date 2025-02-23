@@ -47,29 +47,36 @@ expo start
 
 
 <p>
-<img src="images/splash_screen.jpg" alt="splash_screen" width="300" height="600"> 
+<img src="images/splash_screen.jpg" alt="splash_screen" width="300" height="600" style="margin-right: 8px;"> 
 
-<img src="images/login.jpg" alt="login" width="300" height="600"> 
-</p>
-
+<img src="images/login.jpg" alt="login" width="300" height="600" style="margin-right: 8px;"> 
 <img src="images/dashboard.jpg" alt="Description" width="300" height="600">
 
+</p>
+
+
+<p>
 <img src="images/slider1.jpg" alt="Description" width="300" height="600">
 
 <img src="images/university_list.jpg" alt="Description" width="300" height="600">
 
 <img src="images/courses_list.jpg" alt="Description" width="300" height="600">
+</p>
 
+<p>
 <img src="images/university_details.jpg" alt="Description" width="300" height="600">
 
 <img src="images/university_details2.jpg" alt="Description" width="300" height="600">
 
 <img src="images/university_3.jpg" alt="Description" width="300" height="600">
+</p>
 
+<p>
 <img src="images/kyc.jpg" alt="Description" width="300" height="600" v>
 
 <img src="images/kyc2.jpg" alt="Description" width="300">
 
 <img src="images/kyc3.jpg" alt="Description" width="300">
+</p>
 
 <img src="images/profile.jpg" alt="Description" width="300">
