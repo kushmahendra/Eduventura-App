@@ -8,13 +8,10 @@ User authentication (Signup/Login)
 
 Interactive learning modules
 
-
-Progress tracking
-
 Offline content support
 
 
-Tech Stack
+**Tech Stack**
 
 Frontend: React Native with Expo
 
@@ -37,9 +34,10 @@ Steps
 Clone the repository:
 
 git clone https://github.com/kushmahendra/Eduventura-App.git
+
 cd eduventura-mobile
 
-Install dependencies:
+**Install dependencies:**
 
 npm install
 
@@ -47,9 +45,10 @@ Start the development server:
 
 expo start
 
-<img src="images/splash_screen.jpg" alt="splash_screen" width="300" height="600">
 
-<img src="images/login.jpg" alt="login" width="300" height="600">
+<p>
+<img src="images/splash_screen.jpg" alt="splash_screen" width="300" height="600"> 
+<img src="images/login.jpg" alt="login" width="300" height="600"> </p>
 
 <img src="images/dashboard.jpg" alt="Description" width="300" height="600">
 
