@@ -48,7 +48,9 @@ expo start
 
 <p>
 <img src="images/splash_screen.jpg" alt="splash_screen" width="300" height="600"> 
-<img src="images/login.jpg" alt="login" width="300" height="600"> </p>
+
+<img src="images/login.jpg" alt="login" width="300" height="600"> 
+</p>
 
 <img src="images/dashboard.jpg" alt="Description" width="300" height="600">
 
