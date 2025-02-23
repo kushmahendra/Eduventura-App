@@ -45,17 +45,16 @@ Start the development server:
 
 expo start
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+<p style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; text-align: center;">
+<img src="images/splash_screen.jpg" alt="splash_screen" width="300" height="600" > 
 
-<p>
-<img src="images/splash_screen.jpg" alt="splash_screen" width="300" height="600" style="margin-right: 8px;"> 
-
-<img src="images/login.jpg" alt="login" width="300" height="600" style="margin-right: 8px;"> 
-<img src="images/dashboard.jpg" alt="Description" width="300" height="600">
-
+<img src="images/login.jpg" alt="login" width="300" height="600" > 
 </p>
-
+</div>
 
 <p>
+<img src="images/dashboard.jpg" alt="Description" width="300" height="600">
 <img src="images/slider1.jpg" alt="Description" width="300" height="600">
 
 <img src="images/university_list.jpg" alt="Description" width="300" height="600">
