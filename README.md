@@ -98,11 +98,8 @@ expo start
 
 
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-<div style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; text-align: center;">
-<img src="images/profile.jpg" alt="Description" width="300">
-</div>
-</div>
+
+
 
 
 
