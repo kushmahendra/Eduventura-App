@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "plugins":[
+      [
+        "@react-native-google-signin/google-signin"
+      ]
+    ],
+    "name": "eduventura",
+    "slug": "eduventura",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/logo2.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./src/assets/logo2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/logo2.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.bigvision.eduventura"
+    },
+    "web": {
+      "favicon": "./src/assets/logo2.png"
+    }
+  }
+}
